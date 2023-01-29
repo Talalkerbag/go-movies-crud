@@ -1,6 +1,8 @@
 # go-movies-crud
 Run main.go file in your local machine
   Through an IDE or a terminal
+  
+  
 Navigate to postman and try out the following to GET, POST, DELETE or UPDATE a movie from the movie struct that is in memory (no database)
 
 (GET) http://localhost:8000/movies -> to get all movies in the hard coded movie struct object
