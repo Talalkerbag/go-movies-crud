@@ -11,10 +11,9 @@ GET, POST, DELETE or UPDATE a movie from the movie struct that is in memory (no 
 
 (GET) http://localhost:8000/movies -> to get all movies in the hard coded movie struct object
 _______________________________________ 
-(POST) http://localhost:8000/movies -> will post the following movie object to the hard coded movie struct object
+(POST) http://localhost:8000/movies -> will post the following movie object to the hard coded movie struct object with the following movie object
 
 
-With the following json Body 
 {
     "isbn": "00001",
     "title": "movie 3",
